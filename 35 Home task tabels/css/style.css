@@ -11,6 +11,17 @@ td {
   border-spacing: 0;
   border: 1px solid #000;
   text-align: center;
+  padding: 2px 5px;
+}
+
+caption {
+  border-bottom: 0;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+th {
+  text-transform: uppercase;
 }
 
 .weekend {
